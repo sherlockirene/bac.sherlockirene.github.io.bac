@@ -13,17 +13,17 @@ tags:
 
 
 # Hello Sherlock
-
-first：2018年1月11日11:56:48
+***
+First：2018年1月11日11:56:48
 
 ## Sherlock
+***
 This is my first blog page.
 
-Welcome to [sherlockirene's Blog](https://sherlockirene.github.io)
--
+Welcome to [Sherlockirene's Blog](https://sherlockirene.github.io)
 
-Irene
--
+### Irene
+***
 
 This is test message about *code* :
 
@@ -34,15 +34,15 @@ int main(){
 }
 ```
 
-Table:
+_Table:_
 
 | Item      | Value | Note      |
 |:---------:|:----- | -----:    |
 | Computer  | $1600 | too much  |
 | Phone     |   $12 | impossible|
-| Pipe      |    $1 | hehe      |
+| Pipe      |    $1 | `hehe `   |
 
-List:
+_***List:***_
 1.  1
 2.  2
 3.  3
