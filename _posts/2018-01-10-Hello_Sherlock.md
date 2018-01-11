@@ -28,19 +28,19 @@ This is test message about code:
 Table:
 | Tables        | Are           | Cool  |
 
-| ------------- |:-------------:| -----:|
+| ----------------- |:----------------:| --------:|
 
-| col 3 is      | right-aligned | $1600 |
+| col 3 is           | right-aligned | $1600 |
 
-| col 2 is      | centered      |   $12 |
+| col 2 is           | centered        |   $12   |
 
-| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat         |    $1    |
 
 List:
-1.1
-2.2
-3.3
+1.  1
+2.  2
+3.  3
 
-*a
-*b
-*c
+* a
+* b
+* c
