@@ -23,12 +23,12 @@ Welcome to [sherlockirene's Blog](https://sherlockirene.github.io)!
 ***
 ##Irene
 This is test message about code:
-'cout << "Hello world!" << endl;'
+`cout << "Hello world!" << endl;`
 
 Table:
 | Tables        | Are           | Cool  |
 
-| ----------------- |:----------------:| --------:|
+| --------------- |:----------------:| --------:|
 
 | col 3 is           | right-aligned | $1600 |
 
