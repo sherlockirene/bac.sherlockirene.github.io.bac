@@ -33,15 +33,11 @@ int main(){
 
 Table:
 
-| Tables   | Are           | Cool  |
-
-| --------------- |:---------------:| ---------------:|
-
-| col 3 is | right-aligned | $1600 |
-
-| col 2 is | centered| $12 |
-
-| zebra stripes | are nea | $1 |
+| Item      | Value | Note      |
+| --------- | -----:|:-----    |
+| Computer  | $1600 | too much  |
+| Phone     |   $12 | impossible|
+| Pipe      |    $1 | hehe      |
 
 List:
 1.  1
