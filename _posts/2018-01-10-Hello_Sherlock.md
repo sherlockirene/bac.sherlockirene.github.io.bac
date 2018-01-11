@@ -26,15 +26,16 @@ This is test message about *code* :
 
 ``` C++
 int main(){
-	cout << "Hello world!" << endl;
-	return 0;
+cout << "Hello world!" << endl;
+return 0;
 }
 ```
 
 Table:
+
 | Tables        | Are           | Cool  |
 
-| --------------- |:----------------:| --------:|
+| --------------- |:---------------:| ---------------:|
 
 | col 3 is | right-aligned | $1600 |
 
