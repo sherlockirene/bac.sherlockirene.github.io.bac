@@ -22,8 +22,14 @@ This is my first blog page.
 Welcome to [sherlockirene's Blog](https://sherlockirene.github.io)!
 ***
 ##Irene
-This is test message about code:
-`cout << "Hello world!" << endl;`
+This is test message about *code*:</br>
+`
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
+`
 
 Table:
 | Tables        | Are           | Cool  |
