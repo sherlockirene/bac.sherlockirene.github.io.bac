@@ -22,25 +22,25 @@ This is my first blog page.
 Welcome to [sherlockirene's Blog](https://sherlockirene.github.io)!
 ***
 ##Irene
-This is test message about *code*:</br>
-`
-int main()
+This is test message about *code*:
+
+`int main()
 {
     cout << "Hello world!" << endl;
     return 0;
-}
-`
+}`
+
 
 Table:
 | Tables        | Are           | Cool  |
 
 | --------------- |:----------------:| --------:|
 
-| col 3 is           | right-aligned | $1600 |
+| col 3 is | right-aligned | $1600 |
 
-| col 2 is           | centered        |   $12   |
+| col 2 is | centered| $12 |
 
-| zebra stripes | are neat         |    $1    |
+| zebra stripes | are nea | $1 |
 
 List:
 1.  1
