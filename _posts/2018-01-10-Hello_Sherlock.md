@@ -33,7 +33,7 @@ int main(){
 
 Table:
 
-| Tables        | Are           | Cool  |
+| Tables   | Are           | Cool  |
 
 | --------------- |:---------------:| ---------------:|
 
