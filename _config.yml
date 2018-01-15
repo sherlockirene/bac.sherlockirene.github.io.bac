@@ -1,7 +1,7 @@
 ﻿# Site settings
 title: "SherlockIrene Blog"
 SEOTitle: "SherlockIrene Blog | SI Blog"
-header-img: img/head-bg-female.png
+header-img: /img/head-bg-female.png
 email: sherlockirenek@163.com
 description: "用数学面对工作，用哲学面对生活。"
 keyword: "sherlockirene, sherlockirene Blog, SherlockIrene'Blog, SherlockIrene, iOS, C++, iPhone"
