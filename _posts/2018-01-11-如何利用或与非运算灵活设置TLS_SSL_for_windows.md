@@ -79,12 +79,11 @@ tags:
 `最终设置 = (~弃选位 & 原设置) | 勾选位`
 
 ### 完整代码
+
 ```
 #include <iostream> 
 #include <Windows.h> 
 #include <tchar.h>
-```
-```
 using namespace std;
 int main(){
     HKEY hkey;
