@@ -4,7 +4,7 @@ title:      如何利用或与非运算灵活设置TLS/SSL-for windows
 subtitle:   TLS/SSL
 date:       2018-01-11
 author:     kun
-header-img: img/post-bg-tls_ssl.png
+header-img: img/post-bg-tls_ssl.jpg
 catalog: true
 tags:
     - C++
